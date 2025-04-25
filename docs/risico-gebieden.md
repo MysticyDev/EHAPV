@@ -1,6 +1,6 @@
-# Risicogebieden binnen Nijmegen
+# Risicogebieden binnen Eindhoven
 
-Nijmegen kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
+Eindhoven kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
 
 De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Nijmegen, aanvullende risicogebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale risicogebieden.
 
@@ -100,7 +100,7 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Nijmegen, 
 
 - 5152
 
-### Nijmegen Casino
+### Eindhoven Casino
 
 - 6047
 - 6048
